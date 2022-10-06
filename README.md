@@ -5,7 +5,7 @@ Use this project to make your first contribution to an open source project on Gi
 Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting involved in the open source community by completing some simple tasks in this project.
 
 This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
-https://github.com/Ghosty-deep/Game-deployement.git
+https://github.com/Ghosty-deep/android-prototype.git
 
 ## What is Hacktoberfest?
 
@@ -29,7 +29,7 @@ Choose one or all 3, make a pull request for your work and wait for it to be mer
 - Clone your fork down to your local machine
 
 ```markdown
-git clone https://github.com/Ghosty-deep/Game-deployement.git
+git clone https://github.com/Ghosty-deep/android-prototype.git
 ```
 
 - Create a branch
@@ -119,7 +119,7 @@ Don't forget to include the comments as seen above. Feel free to include additio
 Here is my `hello_world` example: [hello_world_anmolagarwal.js](https://github.com/fineanmol/hacktoberfest/blob/master/scripts/hello_world_anmol_agarwal.js)
 
 ## Our Contributors
-<p align="center"><a href="https://github.com/Ghosty-deep/Game-deployement.git">
+<p align="center"><a href="https://github.com/Ghosty-deep/android-prototype.git">
   <img src="https://contributors-img.web.app/image?repo=fineanmol/hacktoberfest" />
 </a></p>
 
